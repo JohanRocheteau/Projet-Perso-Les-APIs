@@ -10,26 +10,26 @@
    
 - **API N°1 : Les Plantes**
 	- **API :** [Les Plantes](https://trefle.io/)
-      	- **Particularité :** Token + temps entre les requétes.
-      	- **Résulats :** ![Logo](Photos/Plantes.png)
+      	- **Particularité :** Token + temps entre les requêtes.
+      	- **Résultats :** ![Logo](Photos/Plantes.png)
       	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de recherches de noms de plantes. Ou tout simplement pour réaliser un dashboard avec des KPIs.
   
 - **API N°2 : La météo**
 	- **API :** [La météo](https://api.meteo-concept.com/)
       	- **Particularité :** Token.
-      	- **Résulats :** ![Logo](Photos/Météo.png)
+      	- **Résultats :** ![Logo](Photos/Météo.png)
       	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de recherches de prévision météorologique. Ou tout simplement pour réaliser un dashboard avec des KPIs.
   
 - **API N°3 : Montpellier**
 	- **API :** [Montpellier](https://portail-api.montpellier3m.fr/)
       	- **Particularité :** Plusieurs possibilités d'extraction de données.
-      	- **Résulats :** ![Logo](Photos/Montpellier.png)
+      	- **Résultats :** ![Logo](Photos/Montpellier.png)
       	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de vérification d'emplacement libre des vélos et des vélos disponibles.
   
 - **API N°4 : Professionnels du Bio**
 	- **API :** [Les Professionnels du Bio](https://api.gouv.fr/documentation/api-professionnels-bio)
       	- **Particularité :** Extraction par département pour avoir toutes les données.
-      	- **Résulats :** ![Logo](Photos/ProBio.png)
+      	- **Résultats :** ![Logo](Photos/ProBio.png)
       	- **Suite :** Ces données peuvent être utilisées pour créer des cartes, des graphiques, des applications ou pour ajouter des données à un modèle de ML.
   
 - **API N°5 : Création d'une API sur les Champignons**
