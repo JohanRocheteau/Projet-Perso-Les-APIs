@@ -37,9 +37,9 @@
    
    	![Logo](Photos/Champignons.png)
   
-      	- **Particularité :** Beaucoup de vide...
-      	- **API Fast :** [Mon API](APIperso.py)
-      	- **Suite :** Cette API peut ensuite être utilisée pour créer des graphiques, une application ou pour des modèles de ML.
+	- **Particularité :** Beaucoup de vide...
+	- **API Fast :** [Mon API](APIperso.py)
+	- **Suite :** Cette API peut ensuite être utilisée pour créer des graphiques, une application ou pour des modèles de ML.
 
 - **API N°6 : Utilisation des APIs sur PowerBI**
 	- **API :** Mêmes liens que précédemment + utilisation de mon API perso en local.
