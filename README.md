@@ -12,13 +12,13 @@
 	- **API :** [Les Plantes](https://trefle.io/)
       	- **Particularité :** Token + temps entre les requêtes.
       	- **Résultats :** ![Logo](Photos/Plantes.png)
-      	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de recherches de noms de plantes. Ou tout simplement pour réaliser un dashboard avec des KPIs.
+      	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de recherches de noms de plantes, ou tout simplement pour réaliser un dashboard avec des KPIs.
   
 - **API N°2 : La météo**
 	- **API :** [La météo](https://api.meteo-concept.com/)
       	- **Particularité :** Token.
       	- **Résultats :** ![Logo](Photos/Météo.png)
-      	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de recherches de prévision météorologique. Ou tout simplement pour réaliser un dashboard avec des KPIs.
+      	- **Suite :** Ces données peuvent être utilisées pour réaliser des applications de recherches de prévision météorologique, ou tout simplement pour réaliser un dashboard avec des KPIs.
   
 - **API N°3 : Montpellier**
 	- **API :** [Montpellier](https://portail-api.montpellier3m.fr/)
