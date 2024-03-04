@@ -9,6 +9,7 @@
 - **Librairies principales :** requests, json, 
    
 - **API N°1 : Les Plantes**
-	- [**API :**](https://trefle.io/)
-      	![Logo](photos/LesChampignons.png)
+	- **API :**[Les Plantes](https://trefle.io/)
+      	- **Particularité :** Token + temps entre les requétes.
+      	- **Résulats :** ![Logo](Photos/Plantes.png)
           
