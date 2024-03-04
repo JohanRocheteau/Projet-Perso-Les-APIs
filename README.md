@@ -44,6 +44,7 @@
 - **API N°6 : Utilisation des APIs sur PowerBI**
 	- **API :** Mêmes liens que précédemment + utilisation de mon API perso en local.
       	- **Résulats :** Extraction plus rapide qu'en python
+      	- **Fichier PowerBI :** [Mon fichier](APIPowerBI.pbix)
       	- **Suite :** Création de Dashboard.
 
   ## Conclusion :
