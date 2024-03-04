@@ -1,18 +1,14 @@
 # Projet Formation Continue : Upskilling APIs
-![Logo](photos/Morilles.jpg)
+![Logo](Photos/LogoAPI.jpg)
 
 
 ## Mise en situation :
-- **But :** Catégoriser les champignons en fonction de leur comestibilité, que ce soit à travers leur description (mesures ou textes) ou leur photo.
-- **Problématique :** Ne trouvant pas de base de données Open Source sur les champignons, j'ai du aller chercher les données sur internet via scraping. 
-- **Jeux de données :** [Guides des Champignons](https://www.guidedeschampignons.com/)
-- **Information :** Toutes les photos sont la propriété du site le guide des champignons.
-
+- **But :** Parfaire mes connaissances en terme d'utilisation d'API. 
 
 ## Réalisations :
-- **Librairies principales :** Selenium, PIL, NLTK, Spacy, Pymongo, divers modèles de ML, VGG16, GridSearchCV, BayesSearchCV
+- **Librairies principales :** requests, json, 
    
-- **Scrapping des données :**
-	- **Objectif :** Passer de champignon en champignon et scraper le maximum d'informations (textes et photo).
+- **API N°1 : Les Plantes**
+	- [**API :**](https://trefle.io/)
       	![Logo](photos/LesChampignons.png)
           
