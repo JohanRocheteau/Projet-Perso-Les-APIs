@@ -36,7 +36,16 @@
 	- **Données :** [Les Champignons](https://www.data.gouv.fr/fr/datasets/r/e5ba031c-ae1c-476a-a920-5fd401935b2a)
    
    	![Logo](Photos/Champignons.png)
+  
       	- **Particularité :** Beaucoup de vide...
       	- **API Fast :** [Mon API](APIperso.py)
       	- **Suite :** Cette API peut ensuite être utilisée pour créer des graphiques, une application ou pour des modèles de ML.
+
+- **API N°6 : Utilisation des APIs sur PowerBI**
+	- **API :** Mêmes liens que précédemment + utilisation de mon API perso en local.
+      	- **Résulats :** Extraction plus rapide qu'en python
+      	- **Suite :** Création de Dashboard.
+
+  ## Conclusion :
+  Les APIs sont des Interface de Programmation d'Application qui permettent, facilement et efficacement, d'extraire une grande variété de données et ce afin de pouvoir ensuite créer divers outside (graphiques, cartes, dashboard, ML). 
           
