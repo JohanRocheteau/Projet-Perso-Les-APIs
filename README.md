@@ -37,7 +37,7 @@
    
    	![Logo](Photos/Champignons.png)
   
-	- **Particularité :** Beaucoup de vide...
+	- **Particularité :** Beaucoup de cases vides...
 	- **API Fast :** [Mon API](APIperso.py)
 	- **Suite :** Cette API peut ensuite être utilisée pour créer des graphiques, une application ou pour des modèles de ML.
 
