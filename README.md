@@ -49,4 +49,3 @@
 
   ## Conclusion :
   Les APIs sont des Interface de Programmation d'Application qui permettent facilement et efficacement d'extraire une grande variété de données et ce, afin de pouvoir ensuite créer divers outside (graphiques, cartes, dashboard, ML). 
-          
